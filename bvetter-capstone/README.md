@@ -53,11 +53,11 @@ Live clinic overview: appointments, pending actions, active lost-pet reports, an
 ![Dashboard](screenshots/dashboard.png)
 
 Scrolling further: disease case trends by barangay and FY2025 vaccination totals.
-![Dashboard — Disease Trend & Vaccination](screenshots/dashboard-2.png)
+![Dashboard — Disease Trend & Vaccination](screenshots/dashboard-vaccination.png)
 
 ### Disease Analytics
 Municipality-wide case totals, top diagnosis, forecast accuracy, and data source tracking.
-![Disease Analytics](screenshots/disease analytics.png)
+![Disease Analytics](screenshots/disease-analytics.png)
 
 Auto-generated, plain-language insights per barangay — flags which ones need action and why.
 ![Disease Analytics — Insights](screenshots/disease-analytics-insights.png)
