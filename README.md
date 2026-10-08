@@ -1,6 +1,6 @@
 # 👋 Sheena Ramos — Project Portfolio
 
-BS Information Technology, Bulacan State University — specializing in Database & Analytics.
+BS Information Technology, Bulacan State University — specializing in Data & Business Analytics.
 A collection of my IT and data analytics projects: web systems, business intelligence dashboards, and academic research.
 
 📫 sheenaramos.it@gmail.com · [LinkedIn](https://linkedin.com/in/sheena-ramos)
